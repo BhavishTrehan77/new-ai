@@ -1,0 +1,14 @@
+{
+  "name": "vivasphere",
+  "version": "1.0.0",
+  "description": "Interactive AI Tech Examiner & JS/Git Visualizer",
+  "main": "app.js",
+  "scripts": {
+    "lint": "eslint app.js examiner.js visualizers.js"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.0",
+    "globals": "^15.9.0"
+  },
+  "private": true
+}
